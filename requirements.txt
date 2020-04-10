@@ -1,0 +1,1 @@
+Selenium Webdriver must be installed and its path must be provided to webdriver().
